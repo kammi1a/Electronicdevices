@@ -47,3 +47,7 @@ The **Electronic Devices** project is a desktop application built using JavaFX, 
 
 ## **Screenshots**
 <img width="810" alt="Снимок экрана 2024-11-17 в 19 52 29" src="https://github.com/user-attachments/assets/850cbe25-761a-4e09-b840-378c8ba1da61">
+<img width="623" alt="Снимок экрана 2024-11-17 в 19 55 09" src="https://github.com/user-attachments/assets/28001538-a390-423b-bccd-97d9ab369fb7">
+
+<img width="637" alt="Снимок экрана 2024-11-17 в 19 56 00" src="https://github.com/user-attachments/assets/060dd593-c0de-4b98-9c39-facd56df123e">
+

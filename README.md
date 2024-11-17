@@ -22,12 +22,6 @@ The **Electronic Devices** project is a desktop application built using JavaFX, 
 - **Tablets**:
   - Battery longevity (in hours)
   - Stylus availability (with a toggle option)
-    
-
-### **Intuitive User Interface**
-- Clear and straightforward navigation, utilizing a **TabPane** for device category selection.
-- Input fields with placeholders and validation to guide the user during data entry.
-
   
 
 ### **Running the Application**
